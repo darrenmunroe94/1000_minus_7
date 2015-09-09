@@ -6,7 +6,7 @@ The game starts and you are prompted to answer the question "1000-7?" Simply ans
 
 #-Plans
 
-*Add HP to the game. An incorrect answer leads to a 1HP reduction. HP cannot be regained. Zero HP is  loss and leads to "Gme Over" text.
+*Add HP to the game. An incorrect answer leads to a 1HP reduction. HP cannot be regained. Zero HP is  loss and leads to "Game Over" text.
 
 *Add a points system for correct answers.
 
